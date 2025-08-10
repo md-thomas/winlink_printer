@@ -6,9 +6,12 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 import email
 from email import policy
+import configparser
 
-MYCALLSIGN = "K0MDT"
-WATCH_PATH = f"c:/RMS Express/{MYCALLSIGN}/Messages/"
+config = configparser.ConfigParser()
+config.read('config.conf')
+CALLSIGN = config['settings']['callsign']
+WATCH_PATH = f"c:/RMS Express/{CALLSIGN}/Messages/"
 
 def print_with_notepad(text: str):
     with tempfile.NamedTemporaryFile(delete=False, suffix=".txt", mode='w', encoding='utf-8') as f:
