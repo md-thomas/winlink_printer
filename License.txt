@@ -1,0 +1,17 @@
+“Commons Clause” License Condition v1.0
+
+The Software is provided to you under the MIT License (the “License”), as set forth below.  
+In addition, the following condition applies:
+
+The grant of rights under the License is expressly conditioned upon your agreement **not to Sell** the Software. For the purposes of this condition, “Sell” means practicing any or all of the rights granted to you under the License to provide to third parties, for a fee or other consideration (including without limitation fees for hosting or consulting/ support services related to the Software). For clarity, “Sell” does not include charging for mere redistribution costs or for training/support services that are not primarily intended to make a profit from the Software itself.
+
+---
+
+MIT License
+
+Copyright (c) [YEAR] [YOUR NAME]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, **subject to the Commons Clause above**.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
